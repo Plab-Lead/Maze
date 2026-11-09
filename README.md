@@ -19,6 +19,7 @@ The library, experiment configurations, and result records are separated so that
 
 ## The idea
 
+
 <p align="center"><img src="docs/assets/pipeline.png" width="100%" alt="Maze pipeline: cached ordered prompt trajectories, directed node-weighted path scoring, query-conditioned fusion, and selective black-box generation."></p>
 
 A prompt is more than an unordered set of relevant examples.
